@@ -1,4 +1,1 @@
-HEAD
-change from branch b1
-This is a new update
-b2
+Hello world
